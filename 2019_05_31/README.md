@@ -6,6 +6,7 @@ los siguientes son unos codigos de calentamiento que presenta como usar los arch
 
 * [enteroo.h](entero.h)
 * [principal.c](principal.c)
+* [cadena.c](cadena.c)
 
 ## cpu.c
 
