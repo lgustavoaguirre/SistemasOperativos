@@ -5,13 +5,18 @@
 
  ``Integrandes: --Pablo Andres Arroyo-- -- Gustavo Adolfo Aguirre-- --Sebastian Serna--``
 
- ``Codigos: ``
+
+`` Archivos .h : ``
 
 * [common.h](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/common.h)
 * [common_threads.h](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/common_threads.h)
+* [mycommon.h](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/mycommon.h)
+
+`` Archivos .C : ``
+
 * [io.c](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/io.c)
 * [mem.c](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/mem.c)
-* [mycommon.h](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/mycommon.h)
+
 
 ###  Codigo editado
 
