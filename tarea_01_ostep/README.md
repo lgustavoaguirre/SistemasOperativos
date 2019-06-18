@@ -1,9 +1,9 @@
 # Tarea Programacion en C 
-`` Curso:  Sistemas Operativos``
+#### Curso:  Sistemas Operativos``
 
- ``Fecha de entrega: 19 de Junio de 2019``
+#### Fecha de entrega: 19 de Junio de 2019``
 
-*  Integrandes: --Pablo Andres Arroyo-- -- Gustavo Adolfo Aguirre-- --Sebastian Serna--
+#### Integrandes: --Pablo Andres Arroyo-- -- Gustavo Adolfo Aguirre-- --Sebastian Serna--
 
 
 `` Archivos .h : ``
