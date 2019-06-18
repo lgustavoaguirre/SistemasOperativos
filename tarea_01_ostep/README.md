@@ -17,6 +17,6 @@
 
 * [threads.c](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/threads.c)
 
-## Video de las evidencias del punto mem.c, threads.c (modificado) y io.c; 
+### Video de las evidencias del punto mem.c, threads.c (modificado) y io.c; 
 
 * [URL](https://www.youtube.com/watch?v=Qb30K5au5eA&list=PLNqsgMwXL3mE-BNy1wgnthqdbpEiemMfQ&index=4)
