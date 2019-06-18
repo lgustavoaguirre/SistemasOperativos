@@ -13,7 +13,7 @@
 * [mem.c](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/mem.c)
 * [mycommon.h](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/mycommon.h)
 
-## Codigo editado
+###  Codigo editado
 
 * [threads.c](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/threads.c)
 
