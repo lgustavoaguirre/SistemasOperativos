@@ -3,12 +3,12 @@
 ## Integrandes: --Pablo Andres Arroyo-- -- Gustavo Adolfo Aguirre-- --Sebastian Serna--
 ## Codigos: 
 
-* [common.h]([common.h)
-* [common_threads.h]([common_threads.h)
-* [io.c](io.c)
-* [mem.c](mem.c)
-* [mycommon.h]([mycommon.h)
+* [common.h]([https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/common.h)
+* [common_threads.h](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/common_threads.h)
+* [io.c](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/io.c)
+* [mem.c](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/mem.c)
+* [mycommon.h](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/mycommon.h)
 
 ## Codigo editado
 
-* [threads.c]([threads.c)
+* [threads.c](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/threads.c)
