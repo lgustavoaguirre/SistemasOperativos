@@ -1,4 +1,4 @@
-# Repositorio curso Sistemas Operativos
+# Repositorio del curso: Sistemas Operativos
 ## Autor: Gustavo Adolfo Aguirre Muñoz- gustavo.aguirre@correounivalle.edu.co
 ## Codigo: 1523452-3743
 
