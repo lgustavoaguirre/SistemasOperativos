@@ -15,7 +15,7 @@
 * [common_threads.h](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/common_threads.h)
 * [mycommon.h](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/mycommon.h)
 
-######## Archivos .C :
+###### Archivos .C :
 `` El archivo oi.c es un programa en C que imprime al reves el contenido de un archivo ``
 
 * [io.c](https://github.com/lgustavoaguirre/SistemasOperativos/blob/master/tarea_01_ostep/io.c)
